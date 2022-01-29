@@ -8,7 +8,7 @@
 {
 
     box-sizing : border-box;
-    font-family: BZar;
+    font-family: B Zar;
     font-size: 17px;
     padding: 0px;
     margin: 0px;
@@ -130,7 +130,7 @@ html
 
 body {
     background: #fbf551;
-    font-family: BZar,'BZar',tahoma;
+    font-family: B Zar,'BZar',tahoma;
     font-size: 15px;
     line-height: 24px;
 }
@@ -214,7 +214,7 @@ nav ul ul ul {
 }
 .toppic{
     padding-top:100px;padding-bottom:100px;
-    background-image: url('logo/background.jpg');
+    background-image: url('../logo/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -357,7 +357,7 @@ nav ul ul ul {
     color: black;
     display: flex;
     justify-content: center;
-    margin-top: 10px
+    margin-top: 10px;
 }
 .submitCourse:hover{
     background-color: #0099cc;
